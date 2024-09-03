@@ -16,6 +16,14 @@
 
 ![](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
 
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
+
+
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anzonathan&theme=transparent) 
+
 
 ### Front-End Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
