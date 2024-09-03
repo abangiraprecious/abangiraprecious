@@ -9,7 +9,8 @@
 
 ### GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent&ring=ffb6c1&fire=ffb6c1)
+![Streak](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent&ring=ffb6c1&fire=ffb6c1&sideLabels=ffb6c1&currStreakLabel=ffb6c1&stroke=ffffff)
+
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
 
