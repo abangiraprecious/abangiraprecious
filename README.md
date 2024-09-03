@@ -13,7 +13,7 @@ Current Rank in Uganda:[![committers.top badge](https://user-badge.committers.to
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ### UI/UX Stack
- ![Canva](https://img.shields.io/badge/canva-3670A0?style=for-the-badge&logo=canva&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=ffdd54)  ![Illustrator](https://img.shields.io/badge/adobeillustrator-3670A0?style=for-the-badge&logo=adobeillustrator&logoColor=ffdd54)
+ ![Canva](https://img.shields.io/badge/canva-3670A0?style=for-the-badge&logo=canva&logoColor=ffdd54)  ![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=blue)  ![Illustrator](https://img.shields.io/badge/adobeillustrator-3670A0?style=for-the-badge&logo=adobeillustrator&logoColor=ffdd54)
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff"/> 
 <!---[![Abangira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimmusiima&show_icons=true)](https://github.com/nimmusiima/github-readme-stats)--->
