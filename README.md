@@ -10,13 +10,15 @@
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=abangiraekyomuhendo&theme=dark&hide_border=true)<br/>-->
 ### GitHub Stats
 
+![Streak](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
+
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff"/> 
 
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraekyomuhendo&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
+
 
 
 ### Front-End Stack:
