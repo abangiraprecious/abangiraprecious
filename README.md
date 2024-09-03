@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abangira:)
 - 🌱 I’m currently learning computer science!
 - 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
-- 📫 How to reach me? Links to my socials are down below!
+- 📫 How to reach me? Links to my socials are in my bio.
 - ⚡ Fun fact: I love the sky and flowers so much!
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff"/> 
