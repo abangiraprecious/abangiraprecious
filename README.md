@@ -4,10 +4,11 @@
 - 📫 How to reach me? Links to my socials are in my bio.
 - ⚡ Fun fact: I love the sky and flowers so much!
 
-Current Rank in Uganda:[![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
+### Current Rank in Uganda:<br>
+[![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=abangiraekyomuhendo&theme=dark&hide_border=true)<br/>-->
-
+###GitHub Stats
 ![](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
 
 ### Front-End Stack:
