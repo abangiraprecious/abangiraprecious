@@ -9,20 +9,14 @@
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=abangiraekyomuhendo&theme=dark&hide_border=true)<br/>-->
 ### GitHub Stats
+
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff"/> 
-<!---[![Abangira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimmusiima&show_icons=true)](https://github.com/nimmusiima/github-readme-stats)--->
-
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraekyomuhendo&layout=compact&bg_color=ffffff00&text_color=ffffff"/>
-
-![](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
-
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=anzonathan&bg_color=ffffff00&text_color=ffffff"/> 
 
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anzonathan&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraekyomuhendo&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anzonathan&theme=transparent) 
+![GitHub Streak](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
 
 
 ### Front-End Stack:
