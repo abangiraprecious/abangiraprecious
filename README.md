@@ -8,7 +8,7 @@
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=abangiraekyomuhendo&theme=dark&hide_border=true)<br/>-->
-###GitHub Stats
+### GitHub Stats
 ![](https://streak-stats.demolab.com?user=abangiraekyomuhendo&theme=transparent) 
 
 ### Front-End Stack:
