@@ -8,12 +8,12 @@
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=nimmusiima&bg_color=ffffff00&text_color=ffffff"/> 
 <!---[![Abangira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimmusiima&show_icons=true)](https://github.com/nimmusiima/github-readme-stats)--->
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nimmusiima&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraekyomuhendo&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
 
 <!---![](https://github-readme-stats.vercel.app/api?username=nimmusiima&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 --->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimmusiima&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abangiraekyomuhendo&theme=dark&hide_border=true)<br/>
 
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo)
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trishia-K&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)--->
