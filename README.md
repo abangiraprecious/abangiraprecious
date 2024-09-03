@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abangira:)
-- 👀 I’m interested in Robotics for health, Cyber forensics, and cloud computing
 - 🌱 I’m currently learning computer science!
 - 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
 - 📫 How to reach me? Links to my socials are down below!
