@@ -5,7 +5,7 @@
 - 📫 How to reach me? Links to my socials are down below!
 - ⚡ Fun fact: I love the sky and flowers so much!
 
-<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=nimmusiima&bg_color=ffffff00&text_color=ffffff"/> 
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=abangiraekyomuhendo&bg_color=ffffff00&text_color=ffffff"/> 
 <!---[![Abangira's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimmusiima&show_icons=true)](https://github.com/nimmusiima/github-readme-stats)--->
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraekyomuhendo&layout=compact&bg_color=ffffff00&text_color=ffffff"/> 
