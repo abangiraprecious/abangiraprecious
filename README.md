@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abangira:)
+- 👋 Hello there! My name is Precious Abangira:)
 - 🌱 I’m currently studying computer science!
 - 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
 - 📫 How to reach me? Links to my socials are in my bio.
