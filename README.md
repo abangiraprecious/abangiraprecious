@@ -1,7 +1,7 @@
 - 👋 Hello there! My name is Precious Abangira:)
 - 🌱 I’m currently studying computer science!
 - 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
-- 📫 How to reach me? Links to my socials are in my bio.
+- 📫 How to reach me? 
 - ⚡ Fun fact: I love the sky and flowers so much!
 
 ### Current Rank in Uganda:<br>
