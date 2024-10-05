@@ -4,7 +4,7 @@
 - 📫 How to reach me? 
 - ⚡ Fun fact: I love the sky and flowers so much!
 
-### Current Rank in Uganda:<br>
+### My Current Rank in Uganda:<br>
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
 
 ### GitHub Stats
