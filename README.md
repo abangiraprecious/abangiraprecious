@@ -5,7 +5,7 @@
 - ⚡ I love the sky, coffee/tea and flowers so much!
 
 ### My Current Rank in Uganda:<br>
-[![committers.top badge](https://user-badge.committers.top/uganda/abangiraekyomuhendo.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
+[![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
 
 ### GitHub Stats
 
