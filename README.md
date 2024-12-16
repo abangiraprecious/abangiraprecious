@@ -7,7 +7,7 @@
 ### My Current Rank in Uganda:<br>
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
 
-[![](https://visitcount.itsvg.in/api?id=abangiraprecious&label=Profile%20Visitors%3A)&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abangiraprecious&label=Profile%20Visitors%3A)}(https://visitcount.itsvg.in)
 
 ### GitHub Stats
 
