@@ -2,7 +2,7 @@
 - 🌱 I am currently studying computer science.
 - 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
 - 📫 How to reach me? Deets in Bio!
-- ⚡ I love the sky, coffee/tea and flowers so much!
+- ⚡ I love the sky, coffee/tea and flowers so much.
 
 ### My Current Rank in Uganda:<br>
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
