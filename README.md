@@ -10,8 +10,8 @@
 <!-- ### GitHub Stats
 
 ![Streak](https://streak-stats.demolab.com?user=abangiraprecious&theme=transparent&ring=ff4500&fire=ff4500&sideLabels=ffffff&currStreakLabel=ffffff&stroke=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
-
 -->
+<br>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abangiraprecious&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
 
 
