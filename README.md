@@ -9,7 +9,9 @@
 
  ### GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=abangiraprecious&theme=transparent&ring=ff4500&fire=ff4500&sideLabels=ffffff&currStreakLabel=ffffff&stroke=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
+<!-- ![Streak](https://streak-stats.demolab.com?user=abangiraprecious&theme=transparent&ring=ff4500&fire=ff4500&sideLabels=ffffff&currStreakLabel=ffffff&stroke=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
+
+-->
 
 <br>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abangiraprecious&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
@@ -17,7 +19,7 @@
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraprecious&layout=compact&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
 
-
+<br>
 
 ### Front-End Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
