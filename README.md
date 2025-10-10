@@ -1,9 +1,6 @@
-<!-- Add your GIF here -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif)" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif" width="150">
 </p>
-<img src="[https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif)" width="100" height="100" align="right">
-
 
 - 👋 Hey hey! My name is Precious Abangira:)
 - 🌱 I am currently studying computer science
