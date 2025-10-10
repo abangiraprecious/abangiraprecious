@@ -6,7 +6,7 @@
 
 👋 **Hey there! I'm Precious** - Computer Science student by day, big-dreamer by night 🌙
 
-🧠 **Currently geeking out on:** The intersection of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems! Other than, I love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
+🧠 **Currently geeking out on:** The world of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems. Other than that, I generally love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
 
 
 🌌 **Beyond the code:** When I'm not debugging or studying, you'll find me:
