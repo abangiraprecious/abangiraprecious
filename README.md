@@ -1,3 +1,27 @@
+<!-- Add your GIF here -->
+<img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="100" height="100" align="right">
+
+- 👋 Hey hey! My name is Precious Abangira:)
+- 🌱 I am currently studying computer science
+- 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
+- 📫 How to reach me? Deets in Bio.
+- ⚡ I love the sky, coffee/tea and flowers so much.
+
+### My Current Rank in Uganda:<br>
+[![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
+
+### GitHub Stats
+
+<!-- ![Streak](https://streak-stats.demolab.com?user=abangiraprecious&theme=transparent&ring=ff4500&fire=ff4500&sideLabels=ffffff&currStreakLabel=ffffff&stroke=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
+
+-->
+
+<br>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abangiraprecious&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
+
+
+<img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraprecious&layout=compact&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
+
 <br></br><br></br><br></br><br></br>
 
 ### 🛠️ Tech Stack
@@ -22,3 +46,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+<!---
+nimmusiima/nimmusiima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
