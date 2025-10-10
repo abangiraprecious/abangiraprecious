@@ -2,11 +2,20 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif" width="1000">
 </p>
 
-- 👋 Hey hey! My name is Precious Abangira:)
-- 🌱 I am currently studying computer science
-- 💞️ I’m looking to collaborate on projects that will generally help me grow my knowledge and skill.
-- 📫 How to reach me? Deets in Bio.
-- ⚡ I love the sky, coffee/tea and flowers so much.
+### 💫 About Me
+
+👋 **Hey there! I'm Precious** - Computer Science student by day, big-dreamer by night 🌙
+
+🧠 **Currently geeking out on:** The intersection of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems! Other than, I love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
+
+
+🌌 **Beyond the code:** When I'm not debugging or studying, you'll find me:
+- ☁️ Cloud-gazing and contemplating the universe. What a masterpiece...!!
+- ☕ Sipping coffee or exploring fun tea blends  
+- 📚 Getting lost in good books
+- 🌸 Admiring flowers everywhere I go
+- 🐾 Hanging with my awesome dog, Pepper!
+
 
 ### My Current Rank in Uganda:<br>
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo) 
