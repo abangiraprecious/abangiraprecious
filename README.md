@@ -26,13 +26,13 @@
 
 -->
 
-<br>
+<!-- <br>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abangiraprecious&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
 
 
 <img  alt="my stats" align = "left" width = "47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abangiraprecious&layout=compact&bg_color=ffffff00&text_color=ffffff&title_color=ffb6c1"/>
 
-<br></br><br></br><br></br><br></br>
+<br></br><br></br><br></br><br></br> -->
 
 ### 🛠️ Tech Stack
 
