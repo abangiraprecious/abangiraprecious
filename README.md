@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif" width="600">
 </p>
 
-### 💫 About Me
+### About Me
 
 👋 **Hey there! I'm Precious** - Computer Science student by day, big-dreamer by night 🌙
 
@@ -11,9 +11,9 @@
 
 🌌 **Beyond the code:** When I'm not debugging or studying, you'll find me:
 - ☁️ Cloud-gazing and contemplating the universe. What a masterpiece...!!
-- ☕ Sipping coffee or exploring fun tea blends  
+- ☕ Exlporing coffee and fun tea blends  
 - 📚 Getting lost in good books
-- 🌸 Admiring flowers everywhere I go
+- 🌸 Admiring flowers everywhere I go:)
 - 🐾 Hanging with my awesome dog, Pepper!
 
 
