@@ -4,17 +4,16 @@
 
 ### About Me
 
-👋 **Hey there! I'm Precious** - Computer Science student by day, big-dreamer by night 🌙
+👋 **Hey there! I'm Precious** - Computer Science Student and Tech Enthusiast (touche, I know!)
 
-🧠 **Currently geeking out on:** The world of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems. Other than that, I generally love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
+**Currently geeking out on:** The world of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems. Other than that, I generally love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
 
-
-🌌 **Beyond the code:** When I'm not debugging or studying, you'll find me:
-- ☁️ Cloud-gazing and contemplating the universe. What a masterpiece...!!
-- ☕ Exlporing coffee and fun tea blends  
-- 📚 Getting lost in good books
-- 🌸 Admiring flowers everywhere I go:)
-- 🐾 Hanging with my awesome dog, Pepper!
+When I'm not debugging or studying, you'll find me:
+- Cloud-gazing and contemplating the universe. What a masterpiece...!!
+- Exploring coffee and fun tea blends  
+- Getting lost in good books
+- Admiring flowers everywhere I go:)
+- Hanging with my beautiful dog, Pepper!
 
 
 ### My Current Rank in Uganda:<br>
