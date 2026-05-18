@@ -3,8 +3,17 @@
 </p>
 
 ### About Me
+# Precious
 
-👋 **Hey there! I'm Precious** - Computer Science Student and Tech Enthusiast (touche, I know!)
+CS student with a thing for hard problems — particularly ones involving the brain.
+
+I build at the intersection of software, AI, and neuroscience; think BCIs, 
+neural prosthetics, and systems that help people recover what neurological 
+conditions take away.
+
+Off-clock: Pepper 🐾, coffee, and staring at clouds longer than I should.
+
+<!--👋 **Hey there! I'm Precious** - Computer Science Student and Tech Enthusiast (touche, I know!)
 
 **Currently geeking out on:** The world of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems. Other than that, I generally love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
 
@@ -13,7 +22,8 @@ When I'm not debugging or studying, you'll find me:
 - Exploring coffee and fun tea blends  
 - Getting lost in good books
 - Admiring flowers everywhere I go:)
-- Hanging with my beautiful dog, Pepper!
+- Hanging with my beautiful dog, Pepper! 
+-->
 
 
 ### My Current Rank in Uganda:<br>
