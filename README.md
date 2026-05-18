@@ -2,14 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZidjBnMWd5azRmeGxwamMybjhuNGc3cTRtcTc0dHMzMWVjN2ZqdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LUJMHwhXGX7guArHov/giphy.gif" width="600">
 </p>
 
-### About Me
-# Precious
-
-CS student with a thing for hard problems — particularly ones involving the brain.
-
-I build at the intersection of software, AI, and neuroscience; think BCIs, 
-neural prosthetics, and systems that help people recover what neurological 
-conditions take away.
+### Hey, I'm Precious:)
+CS student with a thing for hard problems — particularly ones involving the brain. I build at the intersection of software, AI, and neuroscience; think BCIs, neural prosthetics, and systems that help people recover what neurological conditions take away.
 
 Off-clock: Pepper 🐾, coffee, and staring at clouds longer than I should.
 
