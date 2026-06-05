@@ -7,7 +7,7 @@ CS student with a thing for hard problems — particularly ones involving the br
 
 Off-clock: Pepper 🐾, coffee, and staring at clouds longer than I should.
 
-<!--👋 **Hey there! I'm Precious** - Computer Science Student and Tech Enthusiast (touche, I know!)
+<!--👋 **Hey there! I'm Precious!** - Computer Science Student and Tech Enthusiast (touche, I know!)
 
 **Currently geeking out on:** The world of neuroscience and technology. I'm passionate about leveraging software engineering, AI, and data analytics to develop innovative solutions that could restore brain function, decode neural patterns, and make recovery journeys significantly easier for those facing neurological challenges. Thinking about brain-computer interfaces, neural prosthetics, and intelligent rehabilitation systems. Other than that, I generally love creating innovative solutions that work and work efficeiently too. I believe technology should heal, connect, and empower
 
