@@ -2,7 +2,11 @@
 
 Second-year Computer Science student with a strong interest in robotics and its intersection with healthcare, particularly neurotechnology and bionics. I enjoy working at the intersection of hardware and software, exploring how intelligent systems can support human health, from assistive devices to neural interfaces. Building my skills in software development and machine learning, with the goal of contributing to technologies that have a meaningful, positive impact on people's lives.
 
-Off-clock: My girl, Pepper 🐾, a book with coffee/a fun tea, and staring at clouds longer than I should.
+Off-clock: 
+- A good book over a cup of coffee/a fun tea blend
+- Learning a new skill
+
+<!--Off-clock: My girl, Pepper 🐾, a book with coffee/a fun tea, and staring at clouds longer than I should.
 
 <!--### My Current Rank in Uganda
 [![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraekyomuhendo)
