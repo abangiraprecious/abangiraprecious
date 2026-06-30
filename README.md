@@ -1,6 +1,6 @@
 ### Hey, I'm Precious :)
 
-Second-year Computer Science student with a strong interest in robotics and its intersection with healthcare — particularly neurotechnology and bionics. I enjoy working at the intersection of hardware and software, exploring how intelligent systems can support human health, from assistive devices to neural interfaces. Building my skills in software development and machine learning, with the goal of contributing to technologies that have a meaningful, positive impact on people's lives.
+Second-year Computer Science student with a strong interest in robotics and its intersection with healthcare, particularly neurotechnology and bionics. I enjoy working at the intersection of hardware and software, exploring how intelligent systems can support human health, from assistive devices to neural interfaces. Building my skills in software development and machine learning, with the goal of contributing to technologies that have a meaningful, positive impact on people's lives.
 
 Off-clock: Pepper 🐾, coffee, and staring at clouds longer than I should.
 
